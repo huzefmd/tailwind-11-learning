@@ -11,7 +11,7 @@ function App() {
         price={"$3.99/Month"}
         id={"2"}
       />
-      <PriceCard type={"PREMIUM"} data={"2Tb"} price={"$8.99/Month"} id={"3"} />
+      <PriceCard type={"PREMIUM"} data={"2TB"} price={"$8.99/Month"} id={"3"} />
     </div>
   );
 }

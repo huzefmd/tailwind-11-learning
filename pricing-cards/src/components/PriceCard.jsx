@@ -4,7 +4,7 @@
 
     return (
       <div
-        className={` rounded-xl w-65 ${ 
+        className={` rounded-xl w-65 transform hover:scale-105 duration-200  ${ 
           id === "2" ? "bg-violet-600" : "bg-slate-700"
         }` }
       >
