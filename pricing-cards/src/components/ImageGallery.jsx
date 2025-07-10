@@ -36,7 +36,7 @@ function ImageGallery() {
             </svg>
           </div>
 
-          <div className=" px-10 py-3 bg-black rounded-lg hover:border-black hover:bg-white hover:text-black  text-center transition hover:scale-105  hover:shadow-2xl text-white">
+          <div className=" px-10 py-3 bg-black rounded-lg  hover:bg-white hover:text-black  text-center transition hover:scale-105 border-2 hover:border-black  hover:shadow-2xl text-white">
             Upload
           </div>
         </div>
